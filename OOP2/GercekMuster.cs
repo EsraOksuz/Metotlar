@@ -6,7 +6,7 @@ namespace OOP2
 {
     class GercekMuster:Musteri
     {
-
+        
         public string TcNo { get; set; }
         public string Adi { get; set; }
         public string Soyadi { get; set; }

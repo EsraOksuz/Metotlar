@@ -21,7 +21,7 @@ namespace OOP2
             musteri1.MusteriNo = "12345";
             musteri1.Adi = "Esra";
             musteri1.Soyadi = "Oksuz";
-            musteri1.Soyadi = "222222";
+            musteri1.TcNo = "222222";
 
             TuzelMusteri1 musteri2 = new TuzelMusteri1();
             musteri2.Id = 2;
